@@ -4,7 +4,7 @@
 
 ```bash
 git add .
-git commit -am "YT v0.1.2"
+git commit -am "YT v0.1.3"
 git push
 ```
 
@@ -27,18 +27,18 @@ Timestamps:
 - [x] 1:42:00 - 13. Creating tensors from NumPy arrays
 - [x] 1:53:57 - 14. Getting information from our tensors
 - [x] 2:05:52 - 15. Indexing and expanding tensors
-- [ ] 2:18:27 - 16. Manipulating tensors with basic operations
-- [ ] 2:24:00 - 17. Matrix multiplication part 1
-- [ ] 2:35:55 - 18. Matrix multiplication part 2
-- [ ] 2:49:25 - 19. Matrix multiplication part 3
-- [ ] 2:59:27 - 20. Changing the datatype of tensors
-- [ ] 3:06:24 - 21. Aggregating tensors
-- [ ] 3:16:14 - 22. Tensor troubleshooting
-- [ ] 3:22:27 - 23. Find the positional min and max of a tensor
-- [ ] 3:31:56 - 24. Squeezing a tensor
-- [ ] 3:34:57 - 25. One-hot encoding tensors
-- [ ] 3:40:44 - 26. Trying out more tensor math operations
-- [ ] 3:45:31 - 27. Using TensorFlow with NumPy
+- [x] 2:18:27 - 16. Manipulating tensors with basic operations
+- [x] 2:24:00 - 17. Matrix multiplication part 1
+- [x] 2:35:55 - 18. Matrix multiplication part 2
+- [x] 2:49:25 - 19. Matrix multiplication part 3
+- [x] 2:59:27 - 20. Changing the datatype of tensors
+- [x] 3:06:24 - 21. Aggregating tensors
+- [x] 3:16:14 - 22. Tensor troubleshooting
+- [x] 3:22:27 - 23. Find the positional min and max of a tensor
+- [x] 3:31:56 - 24. Squeezing a tensor
+- [x] 3:34:57 - 25. One-hot encoding tensors
+- [x] 3:40:44 - 26. Trying out more tensor math operations
+- [x] 3:45:31 - 27. Using TensorFlow with NumPy
 - [ ] 3:51:14 - MODULE 1 START (neural network regression)
 - [ ] 3:51:25 - [Keynote] 28. Intro to neural network regression with TensorFlow
 - [ ] 3:58:57 - [Keynote] 29. Inputs and outputs of a regression model
