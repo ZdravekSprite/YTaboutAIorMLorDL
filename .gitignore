@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*/pyvenv.cfg
+*/Scripts/
+*/Lib/
+*/include/
+*/share/
+*/*.h5
+*/best_model_SavedModel_format/
